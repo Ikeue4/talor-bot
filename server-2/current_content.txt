@@ -1,0 +1,1783 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taylor Swift | The Eras Tour tickets</title>
+    <!-- Google Tag Manager -->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        
+        })(window,document,'script','dataLayer','GTM-N79SLR');
+    </script>
+    <!-- End Google Tag Manager -->
+    <style>
+        @font-face {
+            font-family: FormaDJRText;
+            src: url('https://d35kvm5iuwjt9t.cloudfront.net/fonts/FormaDJRText-Regular-Testing.woff');
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: FormaDJRText;
+        }
+        .header-banner .banner {
+            width: 100%;
+            display: block;
+        }
+        .header-banner .banner-mobile {
+            display: none;
+        }
+        .main {
+            background-color: #2E344E;
+        }
+        .main .menu {
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+            padding: 24px 0;
+        }
+        .option a {
+            color: #9D89AE;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: 700;
+        }
+        .ticketek-logo-container {
+            text-align: center;
+            padding-bottom: 24px;
+        }
+        .ticketek-logo-container img {
+            width: 15%;
+        }
+        .lockup-banner {
+            text-align: center;
+        }
+        .lockup-banner .banner-lockup { 
+            width: 46%;
+        }
+        .lockup-banner .banner-lockup-mobile {
+            display: none;
+        }
+        .main .text {
+            text-align: center;
+            padding-bottom: 40px;
+        }
+        .main .text .title {
+            color: #9D89AE;
+            font-size: 32px;
+            font-weight: 800;
+        }
+        .main .text .content {
+            color: #FFFFFF;
+            font-size: 24px;
+            font-weight: 500;
+            max-width: 54%;
+            margin: 0 auto;
+            padding-bottom: 24px;
+            line-height: 1.5;
+        }
+        .timer-container {
+            margin-bottom: -2px;
+        }
+        .timer-container .timer-background {
+            display: block;
+            width: 100%;
+        }
+        #ticketsOnSale {
+            display: flex;
+            align-items: stretch;
+            width: 100%;
+        }
+        #ticketsOnSale .img-container {
+            flex-basis: 25%;
+        }
+        #ticketsOnSale .img-container img {
+            width: 100%;
+        }
+        #ticketsOnSale .end-game-content {
+            flex-basis: 75%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .end-game-content .title {
+            display: flex;
+            align-items: center;
+            padding-left: 24px;
+        }
+        .end-game-content .title img {
+            width: 64px;
+            padding: 24px;
+        }
+        .end-game-content .title .end-game-text {
+            font-size: 60px;
+            font-weight: 900;
+            color: #9D89AE;
+        }
+        .tickets-on-sale-text {
+            font-size: 40px;
+            font-weight: 600;
+        }
+        .tickets-on-sale-text br {
+            display: none;
+        }
+        .tickets-on-sale-text span {
+            font-size: 28px;
+        }
+        .end-game-content .dates {
+            display: flex;
+            flex-wrap: wrap;
+            padding-left: 136px;
+            justify-content: space-between;
+            padding-bottom: 36px;
+        }
+        .end-game-content .dates .date {
+            flex-basis: 45%;
+            padding-top: 36px;
+        }
+        .sale-type {
+            font-size: 36px;
+            font-weight: 700;
+            color: #9D89AE;
+        }
+        .sale-date {
+            font-size: 40px;
+            font-weight: 800;
+        }
+        .sale-time {
+            font-size: 36px;
+            font-weight: 400;
+        }
+        .sale-time .city {
+            color: #9D89AE;
+        }
+        #eventDates {
+            background-color: #2E344E;
+            margin-top: -4px;
+            display: flex;
+            align-items: center;
+            padding: 128px 64px 64px 64px;
+            position: relative;
+        }
+        #eventDates .venue {
+            flex-basis: 50%;
+            text-align: center;
+        }
+        #eventDates .venue .mobile {
+            display: none;
+        }
+        #eventDates .venue .mel {
+            height: 290px;
+        }
+        #eventDates .venue .syd {
+            height: 260px;
+            padding-top: 30px;
+        }
+        #eventDates .venue .city {
+            padding: 16px 0;
+            font-size: 36px;
+            font-weight: 600;
+            color: #9D89AE;
+        }
+        #eventDates .venue .date {
+            font-size: 24px;
+            font-weight: 400;
+            color: #FFFFFF;
+        }
+        #eventDates .venue .date a {
+            color: #FFFFFF;
+        }
+        #eventDates .middle {
+            text-align: center;
+            position: absolute;
+            top: 64px;
+            left: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+        #eventDates .middle .best {
+            font-size: 54px;
+            font-weight: 600;
+            color: #9D89AE;
+        }
+        #eventDates .middle .dates {
+            font-size: 54px;
+            font-weight: 600;
+            color: #9D89AE;
+        }
+        #eventDates .middle .divider {
+            height: 180px;
+            border-left: solid 3px #FFFFFF;
+            margin-top: 100px;
+        }
+        #eventDates .divider-m {
+            display: none;
+        }
+        #ticketPrices .wording .title {
+            display: flex;
+            align-items: center;
+            padding-left: 24px;
+            margin-bottom: 24px;
+        }
+        #ticketPrices .wording .title img {
+            width: 64px;
+            padding: 24px;
+        }
+        #ticketPrices .wording .title .time-to-go-text {
+            font-size: 60px;
+            font-weight: 900;
+            color: #9D89AE;
+        }
+        .ticket-prices-text {
+            font-size: 40px;
+            font-weight: 600;
+        }
+        .prices {
+            padding-left: 136px;
+        }
+        .price {
+            font-size: 30px;
+            font-weight: 700;
+            margin: 12px 0;
+        }
+        .price span {
+            color: #9D89AE;
+        }
+        #ticketPrices {
+            display: flex;
+            height: 40vw;
+            overflow: hidden;
+        }
+        #ticketPrices .wording {
+            flex-basis: 40%;
+            padding-top: 32px;
+        }
+        #ticketPrices .mobile-frame {
+            flex-basis: 60%;
+            position: relative;
+        }
+        #ticketPrices .mobile-frame img {
+            width: 80%;
+            padding: 16px 10%;
+        }
+        .mobile-frame .content {
+            position: absolute;
+            width: 40vw;
+            text-align: center;
+            top: 10vw;
+            left: 10vw;
+            font-weight: 600;
+        }
+        .mobile-frame .content .title {
+            font-size: 36px;
+        }
+        .mobile-frame .content .text {
+            font-size: 28px;
+            color: #9D89AE;
+            padding-top: 3vw;
+        }
+        #vipPackages {
+            background-color: #2E344E;
+            padding-bottom: 64px;
+            position: relative;
+        }
+        #vipPackages .divider {
+            width: 100%;
+            border-bottom: 1px solid #FFFFFF;
+            margin-bottom: 32px;
+        }
+        #vipPackages .title {
+            display: flex;
+            align-items: center;
+            padding-left: 24px;
+            margin-bottom: 42px;
+            padding-top: 36px;
+            padding-bottom: 36px;
+        }
+        #vipPackages .title img {
+            width: 64px;
+            padding: 24px;
+        }
+        .wonder-text {
+            font-size: 60px;
+            font-weight: 900;
+            color: #9D89AE;
+        }
+        .vip-packages-text {
+            font-size: 40px;
+            font-weight: 600;
+            color: #FFFFFF;
+        }
+        .packages {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            font-weight: 600;
+            padding: 0 136px;
+        }
+        .package {
+            width: 100%;
+        }
+        .package-name-section {
+            font-size: 36px;
+            color: #9D89AE; 
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .package-price {
+            color: #FFFFFF;
+        }
+        .package-copy {
+            font-size: 24px;
+            color: #FFFFFF;
+            padding: 24px 0;
+            line-height: 1.5;
+        }
+        .package-copy a {
+            color: #FFFFFF;
+        }
+        .note-hotel {
+            color: #9D89AE;
+            font-size: 20px;
+            text-align: center;
+        }
+        .seating-note {
+            font-size: 16px;
+            color: #FFFFFF;
+            text-align: center;
+            margin-top: 16px;
+        }
+        .hotel-onsale-date {
+            font-size: 16px;
+            color: #FFFFFF;
+            text-align: center;
+            margin-top: 16px;
+        }
+        #accessibleSeating {
+            text-align: center;
+            padding: 64px 0;
+        }
+        #accessibleSeating img {
+            width: 128px;
+            margin-bottom: 32px;
+        }
+        #accessibleSeating .title {
+            font-size: 60px;
+            font-weight: 900;
+            color: #9D89AE;
+        }
+        #accessibleSeating .sub-title {
+            font-size: 40px;
+            font-weight: 600;
+            margin-bottom: 24px;
+        }
+        #accessibleSeating .text {
+            font-size: 24px;
+            font-weight: 600;
+            width: 80%;
+            margin: 0 auto;
+        }
+        #luckyOnes {
+            background-color: #2E344E;
+            padding-top: 64px;
+            font-weight: 600;
+        }
+        #luckyOnes .title {
+            display: flex;
+            padding-left: 24px;
+            margin-bottom: 24px;
+        }
+        #luckyOnes .title img{
+            width: 64px;
+            padding: 0 24px;
+        }
+        #luckyOnes .title div{
+            font-size: 60px;
+            font-weight: 900;
+            color: #9D89AE;
+        }
+        .item {
+            display: flex;
+            color: #FFFFFF;
+            font-size: 24px;
+            align-items: center;
+            margin-bottom: 32px;
+        }
+        .item img {
+            width: 64px;
+        }
+        .item div {
+            padding: 0 32px;
+        }
+        #luckyOnes .sub {
+            color: #FFFFFF;
+            font-size: 28px;
+            margin-bottom: 36px;
+            padding-left: 48px;
+            padding-right: 48px;
+        }
+        #luckyOnes .wording .title {
+            color: #FFFFFF;
+            font-size: 36px;
+            padding-left: 0;
+        }
+        #luckyOnes .wording .sub-title {
+            color: #9D89AE;
+            font-size: 24px;
+            width: 85%;
+            margin-bottom: 24px;
+        }
+        #luckyOnes .wording .mobile-lucky {
+            display: none;
+        }
+        #luckyOnes .details {
+            display: flex;
+            align-items: center;
+        }
+        #luckyOnes .details .wording {
+            flex-basis: 80%;
+            padding-left: 48px;
+        }
+        #luckyOnes .details .image-container {
+            flex-basis: 20%;
+        }
+        #luckyOnes .details .image-container img{
+            width: 100%;
+            display: block;
+        }
+        #onSaleDay {
+            display: flex;
+            align-items: center;
+            font-weight: 600;
+            background-color: #2E344E;
+        }
+        #onSaleDay .image-container {
+            flex-basis: 20%;
+        }
+        #onSaleDay .image-container img {
+            width: 100%;
+            display: block;
+        }
+        #onSaleDay .lucky-mobile-img2 {
+            display: none;
+        }
+        #onSaleDay .details {
+            flex-basis: 80%;
+        }
+        #onSaleDay .details .title {
+            font-size: 36px;
+            color: #FFFFFF;
+            margin: 0 auto 64px auto;
+            width: 85%;
+        }
+        #onSaleDay .details .sub {
+            font-size: 24px;
+            color: #9D89AE;
+            width: 85%;
+            margin: 0 auto;
+        }
+        #onSaleDay .details .item {
+            width: 85%;
+            margin: 32px auto;
+        }
+        #longStoryShort {
+            text-align: center;
+            padding: 64px 0;
+        }
+        #longStoryShort img {
+            width: 128px;
+            margin-bottom: 32px;
+        }
+        #longStoryShort .title {
+            font-size: 60px;
+            font-weight: 900;
+            color: #9D89AE;
+        }
+        #longStoryShort .sub {
+            font-size: 40px;
+            font-weight: 600;
+            margin-bottom: 24px;
+        }
+        #longStoryShort .text {
+            font-size: 30px;
+            color: #9D89AE;
+            margin: 0 auto;
+            width: 85%;
+            line-height: 1.5;
+        }
+        #longStoryShort .text span {
+            text-decoration: underline;
+            font-weight: bold;
+        }
+        #faqs {
+            position: relative;
+        }
+        #faqs .faqs-background {
+            display: block;
+            width: 100%;
+        }
+        #faqs .faqs-background-mobile {
+            display: none;
+        }
+        #faqs .title {
+            font-size: 60px;
+            font-weight: 900;
+            color: #9D89AE;
+            text-align: center;
+            padding-top: 32px;
+        }
+        #faqs .sub {
+            font-size: 32px;
+            font-weight: 600;
+            margin: 64px auto;
+            color: #FFFFFF;
+            width: 80%;
+        }
+        #faqs .abs {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+        }
+        .cards {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 80%;
+            margin: 0 auto;
+        }
+        .card {
+            width: 15%;
+            font-size: 28px;
+            border-radius: 8px;
+            aspect-ratio: 1/1;
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            color: #FFFFFF;
+            border: solid 4px #ffffff;
+            text-align: center;
+            cursor: pointer;
+        }
+        .card img {
+            width: 64px;
+        }
+        .card div {
+            padding-top: 12px;
+            width: 90%;
+        }
+        .timer-container {
+            position: relative;
+        }
+        .timer-container .timer-background-mobile {
+            display: none;
+        }
+        .timer-container .ab {
+            position: absolute;
+            top: 0;
+            left: 0;
+            color: #FFFFFF;
+            width: 100vw;
+        }
+        .ab .title {
+            font-size: 24px; 
+            text-align: center;
+            padding: 36px 0 12px 0;
+        }
+        .ab .timer {
+            display: flex;
+        }
+        .ab .city {
+            text-align: center;
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 24px;
+        }
+        .days,
+        .hours,
+        .minutes,
+        .seconds {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .days,
+        .hours,
+        .minutes {
+            margin-right: 1.5vw;
+        }
+        .plates {
+            display: flex;
+            margin-bottom: 24px;
+        }
+        .plate-l,
+        .plate-r {
+            background-color: #2E344E;
+            width: 3vw;
+            padding: 20px 0;
+            text-align: center;
+            border-radius: 5px;
+            font-size: 40px;
+            font-weight: 900;
+        }
+        .plate-l {
+            margin-right: 2px;
+        }
+        .legend {
+            font-size: 20px;
+            font-weight: 400;
+        }
+        .buy {
+            margin-top: 24px;
+        }
+        .buy a {
+            text-decoration: none;
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            height: 40px;
+            background-color: #EF356E;
+            border-radius: 20px;
+            width: 15vw;
+            justify-content: center;
+            margin: 0 auto;
+        }
+        .buy a img {
+            width: 14px;
+            padding-left: 5.5px;
+        }
+        .buy a .buy-text {
+            margin-right: 12px;
+        }
+        .buy .image-container {
+            width: 24px;
+            height: 24px;
+            border-radius: 12px;
+            border: solid 1px #FFFFFF;
+            line-height: 24px;
+        }
+        .ab .content {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .dates .divider {
+            display: none;
+        }
+        .back-to-top a{
+            width: 32px;
+            display: block;
+            height: 32px;
+            border-radius: 16px;
+            background-color: #9D89AE;
+            position: fixed;
+            bottom: 16px;
+            right: 16px;
+        }
+        .back-to-top a img {
+            width: 26px;
+            padding-left: 3px;
+        }
+        .too-long {
+            width: 80%;
+        }
+        .price-note {
+            width: 80%;
+            text-align: center;
+            margin: 8px auto;
+            font-size: 12px;
+        }
+        .ticket-limit {
+            width: 80%;
+            text-align: center;
+            margin: 16px auto;
+        }
+        .hotel-title {
+            margin-right: auto;
+        }
+        .city-hotel {
+            margin: 24px 0;
+        }
+        img.lightning {
+            width: 48px;
+        }
+        .tour-header {
+            text-align: center;
+            font-size: 64px;
+            font-weight: bolder;
+            color: #FFFFFF;
+        }
+        .tour-present {
+            font-size: 32px;
+            text-align: center;
+            color: #ffffff;
+            margin-top: 24px;
+        }
+        .additional-note {
+            font-size: 20px;
+            margin-top: 12px;
+            width: 85%;
+        }
+        .vip-packages-tnc ul {
+            color: #ffffff;
+            width: 75%;
+            margin: 24px auto 0 auto;
+        }
+        .vertical-divider {
+            display: none;
+        }
+        @media screen and (min-width: 1440px) and (max-width: 1520px) {
+            #ticketPrices {
+                height: 60vw;
+            }
+        }
+        @media screen and (min-width: 1112px) and (max-width: 1439px) {
+            #ticketPrices {
+                height: 70vw;
+            }
+        }
+        @media screen and (min-width: 992px) and (max-width: 1111px) {
+            #ticketPrices {
+                height: 80vw;
+            }
+        }
+        @media screen and (min-width: 992px) and (max-width: 1520px) {
+            .sale-type {
+                font-size: 24px;
+                font-weight: 700;
+                color: #9D89AE;
+            }
+            .sale-date {
+                font-size: 28px;
+                font-weight: 800;
+            }
+            .sale-time {
+                font-size: 24px;
+                font-weight: 400;
+            }
+        }
+        @media screen and (min-width: 992px) and (max-width: 1328px) {
+            #ticketPrices .wording .title .time-to-go-text {
+                font-size: 36px;
+            }
+            .ticket-prices-text {
+                font-size: 32px;
+            }
+            #ticketPrices .wording .title {
+                margin-bottom: 0;
+            }
+            .end-game-content .title .end-game-text {
+                font-size: 36px;
+            }
+            .tickets-on-sale-text {
+                font-size: 32px;
+            }
+            .mobile-frame .content .title {
+                font-size: 32px;
+            }
+            .mobile-frame .content .text {
+                font-size: 20px;
+            }
+            .package-copy span {
+                margin-left: 10%;
+            }
+            #luckyOnes .details .wording {
+                flex-basis: 60%;
+            }
+            #luckyOnes .details .image-container {
+                flex-basis: 40%;
+            }
+            .item {
+                font-size: 20px;
+            }
+            .card {
+                font-size: 20px;
+            }
+            .card img {
+                width: 42px;
+            }
+            img.lightning {
+                width: 36px;
+            }
+            #faqs .sub {
+                margin: 24px auto;
+            }
+        }
+        @media (max-width: 991px) {
+            .header-banner .banner-mobile {
+                display: block;
+                width: 100%;
+            }
+            .header-banner .banner {
+                display: none;
+            }
+            .main .menu {
+                flex-wrap: wrap;
+                padding: 24px;
+                line-height: 1.7;
+                justify-content: center;
+            }
+            .main .menu .option a {
+                font-size: 16px;
+                text-decoration: underline;
+            }
+            .ticketek-logo-container img {
+                width: 40%;
+                margin-top: 24px;
+            }
+            .lockup-banner .banner-lockup {
+                display: none;
+            }
+            .lockup-banner .banner-lockup-mobile {
+                display: inline-block;
+                width: 72%;
+            }
+            .main .text .title {
+                font-size: 24px;
+            }
+            .main .text .content {
+                font-size: 20px;
+                max-width: 80%;
+            }
+            .timer-container .timer-background-mobile {
+                display: block;
+                width: 100%;
+            }
+            .timer-container .timer-background {
+                display: none;
+            }
+            .ab .content {
+                flex-direction: column;
+            }
+            .plates {
+                margin-bottom: 16px;
+            }
+            .plate-l,
+            .plate-r {
+                width: 7vw;
+                padding: 8px 0;
+                font-size: 30px;
+            }
+            .days,
+            .hours,
+            .minutes {
+                margin-right: 5vw;
+            }
+            .buy {
+                margin-top: 16px;
+            }
+            .buy a {
+                width: 50vw;
+                height: 28px;
+                border-radius: 14px;
+                font-size: 14px;
+            }
+            .mel-timer-container {
+                margin-top: 16px;
+            }
+            .ab .city {
+                font-size: 16px;
+                margin-bottom: 16px;
+            }
+            .legend {
+                font-size: 16px;
+            }
+            .ab .title {
+                padding: 12px 0 8px 0;
+                font-size: 18px;
+            }
+            .buy .image-container {
+                width: 16px;
+                height: 16px;
+                border-radius: 8px;
+                line-height: 16px;
+            }
+            .buy a img {
+                width: 10px;
+            }
+            #ticketsOnSale {
+                display: block;
+                padding-bottom: 64px;
+                padding-top: 40px;
+            }
+            #ticketsOnSale .img-container {
+                display: none;
+            }
+            #ticketsOnSale .end-game-content {
+                display: block;
+            }
+            .end-game-content .title {
+                flex-direction: column;
+                align-items: center;
+                padding-left: 0;
+            }
+            .end-game-content .title .end-game-text {
+                font-size: 32px;
+                text-align: center;
+            }
+            .tickets-on-sale-text {
+                font-size: 24px;
+                text-align: center;
+            }
+            .tickets-on-sale-text br {
+                display: block;
+            }
+            .tickets-on-sale-text span {
+                font-size: 16px; 
+            }
+            .end-game-content .dates {
+                flex-direction: column;
+                padding-left: 0;
+                align-items: center;
+                padding: 0 24px;
+            }
+            .end-game-content .dates .date {
+                text-align: center;
+                padding-top: 16px;
+            }
+            .sale-type,
+            .sale-date,
+            .sale-time {
+                font-size: 24px;
+            }
+            .dates .divider {
+                width: 25%;
+                border-bottom: solid 1px #2E344E;
+                padding-bottom: 16px;
+                margin-bottom: 8px;
+                display: block;
+            }
+            #eventDates {
+                flex-direction: column;
+                padding: 152px 24px 64px 24px;
+            }
+            #eventDates .venue {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                width: 100%;
+            }
+            #eventDates .venue.syd-venue {
+                flex-direction: row-reverse;
+            }
+            #eventDates .venue .mobile {
+                display: block;
+                color: #FFFFFF;
+            }
+            #eventDates .venue .mobile a {
+                color: #FFFFFF;
+            }
+            #eventDates .venue .city,
+            #eventDates .venue .date {
+                display: none;
+            }
+            #eventDates .venue .mel {
+                height: 100px;
+            }
+            #eventDates .venue .syd {
+                height: 100px;
+            }
+            #eventDates .venue .mobile .city-m {
+                color: #9D89AE;
+                font-size: 20px;
+                font-weight: 600;
+                margin-bottom: 16px;
+            }
+            #eventDates .divider-m {
+                border-bottom: solid 1px #FFFFFF;
+                width: 100%;
+                display: block;
+                padding-bottom: 24px;
+            }
+            #eventDates .middle .best {
+                font-size: 32px;
+            }
+            #eventDates .middle .dates {
+                font-size: 32px;
+            }
+            #eventDates .middle .divider {
+                display: none;
+            }
+            #ticketPrices {
+                display: block;
+                height: calc(800px + 80vw);
+                padding-bottom: 64px;
+            }
+            #ticketPrices .wording .title {
+                flex-direction: column;
+                padding-left: 0;
+                margin-bottom: 24px;
+                text-align: center;
+                align-items: center;
+                padding-top: 40px;
+            }
+            #ticketPrices .wording .title .time-to-go-text {
+                font-size: 32px;
+            }
+            .ticket-prices-text {
+                font-size: 24px;
+            }
+            .prices {
+                padding-left: 0;
+                text-align: center;
+            }
+            .price {
+                font-size: 24px;
+                margin: 8px 0;
+            }
+            #ticketPrices .mobile-frame img {
+                padding: 24px 10%;
+            }
+            .mobile-frame .content {
+                width: 60vw;
+                top: 20vw;
+                left: 20vw;
+            }
+            .mobile-frame .content .title {
+                font-size: 24px;
+            }
+            .mobile-frame .content .text {
+                font-size: 16px;
+            }
+            #ticketPrices .wording {
+                padding-top: 0;
+            }
+            #vipPackages .title {
+                display: block;
+                text-align: center;
+                padding-left: 0;
+                padding-top: 16px;
+                padding-bottom: 16px;
+            }
+            .wonder-text {
+                font-size: 32px;
+            }
+            .vip-packages-text {
+                font-size: 24px;
+            }
+            .package-name-section {
+                font-size: 24px;
+            }
+            .package-copy {
+                font-size: 20px;
+            }
+            .packages {
+                width: 80%;
+                padding: 0;
+                margin: 0 auto;
+            }
+            #accessibleSeating img {
+                width: 64px;
+                margin-bottom: 16px;
+            }
+            #accessibleSeating .title {
+                font-size: 32px;
+            }
+            #accessibleSeating .sub-title {
+                font-size: 24px;
+            }
+            #accessibleSeating .text {
+                font-size: 20px;
+            }
+            #luckyOnes .title {
+                padding-left: 0;
+                flex-direction: column;
+                align-items: center;
+            }
+            #luckyOnes .title div {
+                font-size: 32px;
+            }
+            #luckyOnes .sub {
+                font-size: 20px;
+                margin-bottom: 24px;
+                text-align: center;
+            }
+            #luckyOnes .wording .mobile-lucky {
+                display: block;
+                width: 100%;
+            }
+            #luckyOnes .details .image-container img {
+                display: none;
+            }
+            #luckyOnes .details {
+                display: block;
+                padding-bottom: 16px;
+            }
+            #luckyOnes .details .wording {
+                padding-left: 0;
+            }
+            #luckyOnes .wording .title {
+                font-size: 32px;
+                margin-top: 24px;
+            }
+            #luckyOnes .wording .sub-title {
+                margin: 0 auto;
+                font-size: 20px;
+                padding-bottom: 16px;
+                text-align: center;
+            }
+            .item {
+                font-size: 18px;
+                align-items: center;
+                margin-bottom: 24px;
+                flex-direction: column;
+                text-align: center;
+            }
+            .item div {
+                margin-top: 16px;
+            }
+            #onSaleDay {
+                display: block;
+                padding-bottom: 24px;
+            }
+            #onSaleDay .image-container {
+                display: none;
+            }
+            #onSaleDay .lucky-mobile-img2 {
+                display: block;
+                width: 100%;
+            }
+            #onSaleDay .details .title {
+                font-size: 32px;
+                text-align: center;
+                margin: 24px 0;
+                width: unset;
+            }
+            #onSaleDay .details .sub {
+                font-size: 20px;
+                text-align: center;
+            }
+            #longStoryShort img {
+                width: 64px;
+                margin-bottom: 16px;
+            }
+            #longStoryShort .title {
+                font-size: 32px;
+            }
+            #longStoryShort .sub {
+                font-size: 24px;
+            }
+            #longStoryShort .text {
+                font-size: 18px;
+            }
+            #faqs .faqs-background {
+                display: none;
+            }
+            #faqs .faqs-background-mobile {
+                display: block;
+                width: 100%;
+            }
+            #faqs .title {
+                font-size: 24px;
+                padding-top: 16px;
+            }
+            #faqs .sub {
+                font-size: 18px;
+                margin: 0 auto;
+            }
+            .card img {
+                width: 32px;
+            }
+            .card {
+                font-size: 16px;
+                width: 28%;
+                margin-right: 2%;
+                margin-top: 2%;
+            }
+            .cards {
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .too-long {
+                width: unset;
+            }
+            .hotel-title {
+                margin-right: 0;
+            }
+            img.lightning {
+                width: 24px;
+            }
+            .tour-header {
+                font-size: 28px;
+            }
+            .tour-present {
+                font-size: 20px;
+            }
+            .additional-note {
+                margin: 12px auto;
+            }
+            .vertical-divider {
+                display: block;
+                padding: 0 8px;
+                font-size: 24px;
+                color: #9D89AE;
+            }
+        }
+    </style>
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function(event) { 
+            startCounter(Date.UTC(2023, 6, 30, 10, 0, 0, 0), Date.UTC(2023, 6, 30, 14, 0, 0, 0));
+            setInterval(() => startCounter(Date.UTC(2023, 6, 30, 10, 0, 0, 0), Date.UTC(2023, 6, 30, 14, 0, 0, 0)), 1000);
+        });
+        function startCounter(syd, mel) {
+            var d = new Date;
+            var currentTime = Date.UTC(d.getFullYear(), (d.getMonth() + 1), d.getDate(), d.getHours(), d.getMinutes(), d.getSeconds(), d.getMilliseconds());
+            var timeLefts = syd - currentTime;
+            var dayss = Math.floor(timeLefts/1000/60/60/24);
+            var hourss = Math.floor(timeLefts/1000/60/60) - dayss*24;
+            var minutess = Math.floor(timeLefts/1000/60) - dayss*24*60 - hourss*60;
+            var secondss = Math.floor(timeLefts/1000) - minutess*60 - dayss*24*60*60 - hourss*60*60;
+            var timeLeftm = mel - currentTime;
+            var daysm = Math.floor(timeLeftm/1000/60/60/24);
+            var hoursm = Math.floor(timeLeftm/1000/60/60) - daysm*24;
+            var minutesm = Math.floor(timeLeftm/1000/60) - daysm*24*60 - hoursm*60;
+            var secondsm = Math.floor(timeLeftm/1000) - minutesm*60 - daysm*24*60*60 - hoursm*60*60;
+            document.getElementById('syd-d-l').innerHTML = processNumber(dayss)[0];
+            document.getElementById('syd-d-r').innerHTML = processNumber(dayss)[1];
+            document.getElementById('syd-h-l').innerHTML = processNumber(hourss)[0];
+            document.getElementById('syd-h-r').innerHTML = processNumber(hourss)[1];
+            document.getElementById('syd-m-l').innerHTML = processNumber(minutess)[0];
+            document.getElementById('syd-m-r').innerHTML = processNumber(minutess)[1];
+            document.getElementById('syd-s-l').innerHTML = processNumber(secondss)[0];
+            document.getElementById('syd-s-r').innerHTML = processNumber(secondss)[1];
+            document.getElementById('mel-d-l').innerHTML = processNumber(daysm)[0];
+            document.getElementById('mel-d-r').innerHTML = processNumber(daysm)[1];
+            document.getElementById('mel-h-l').innerHTML = processNumber(hoursm)[0];
+            document.getElementById('mel-h-r').innerHTML = processNumber(hoursm)[1];
+            document.getElementById('mel-m-l').innerHTML = processNumber(minutesm)[0];
+            document.getElementById('mel-m-r').innerHTML = processNumber(minutesm)[1];
+            document.getElementById('mel-s-l').innerHTML = processNumber(secondsm)[0];
+            document.getElementById('mel-s-r').innerHTML = processNumber(secondsm)[1];
+        }
+        function processNumber(number){
+            if (number >= 0) {
+                if (number > 9) {
+                return [number.toString()[0], number.toString()[1]];
+                } else {
+                    return ['0', number.toString()];
+                }
+            } else {
+                return ['0', '0'];
+            }  
+        }
+    </script>
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="JQFBR-N2NSQ-MBPP7-F48JH-QZ346",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"JQFBR-N2NSQ-MBPP7-F48JH-QZ346",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="ej7uflqxgurdezewtc7q-f-437529fef-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"1492441","ak.ai":parseInt("847460",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"2282406a","ak.r":38244,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"34.127.66.0","ak.cport":51118,"ak.gh":"23.53.34.46","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1687591103","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==F3HyWKG8+hvzgTYrxFyJ0Q7VzX2skK5XABbs07DhIfWd1pDeI4+3a/eETzDNDKx4Wnvwsv6cco3E4pwb3x+eR/4hY1sZ+y+ACuWEfPZSMWYKs46K4/8BKsTlaJgzo3DTP5fBYcCJ02OH1w9oXCvmjnrOwYjMD4RQ+PY1JNXx+Hk3sggSn4MpS8dM2mVPliwtKVcx1eQrB5O0FM1M3h7BuSQxCc1tA7j+c6HYWd4B3v2iwLlIvrvKGzZwcsjL6RWFWWIECJG4x5pkjYKwbPdCYyRo4flFO73IKnFJ+/3BcWtR3jZHg30rS1YyKMO63lMVlBa5Jd5/AdvvxLdwNqG8LWFce5HlBdJxdGFDo68pF9jovBmPyXPTTej8urY1V/ki4PPiopG37lAWRrNdVokG3iNxiMr1HmRnG3a+UMitLkI=","ak.pv":"48","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+
+    <noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-N79SLR
+
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="header-banner">
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298828.jpg" alt="header-banner" class="banner" />
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298823.jpg" alt="header-banner-mobile" class="banner-mobile" />
+    </div>
+    <div class="main">
+        <div class="menu">
+            <div class="option">
+                <a href="#ticketsOnSale">On Sale Times</a>
+            </div>
+            <div class="vertical-divider"> | </div>
+            <div class="option">
+                <a href="#eventDates">Event Dates</a>
+            </div>
+            <div class="vertical-divider"> | </div>
+            <div class="option">
+                <a href="#ticketPrices">Ticket Prices</a>
+            </div>
+            <div class="vertical-divider"> | </div>
+            <div class="option">
+                <a href="#vipPackages">VIP Packages</a>
+            </div>
+            <div class="vertical-divider"> | </div>
+            <div class="option">
+                <a href="#luckyOnes">On Sale Tips</a>
+            </div>
+            <div class="vertical-divider"> | </div>
+            <div class="option">
+                <a href="#accessibleSeating">Accessible Seating</a>
+            </div>
+            <div class="vertical-divider"> | </div>
+            <div class="option">
+                <a href="#faqs">FAQs</a>
+            </div>
+        </div>
+        <div class="ticketek-logo-container">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/Ticketek-Logo-White.svg" alt="tkt-logo" />
+        </div>
+        <div class="tour-header">Taylor Swift | The Eras Tour</div>
+        <!-- <div class="lockup-banner">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298824.jpg" alt="lockup" class="banner-lockup" />
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298822.jpg" alt="lockup" class="banner-lockup-mobile" />
+        </div> -->
+        <div class="tour-present">
+            Presented by: Crown and Frontier Touring 
+            <br>
+            Special guest: Sabrina Carpenter
+        </div>
+        <div class="text">
+            <p class="title">Swifties, are you ready?</p>
+            <p class="content">Taylor Swift | The Eras Tour is headed to Australia in February 2024. The 12-time GRAMMYÂ® award winner is bringing her iconic stadium shows to Sydney and Melbourne, so get ready for the biggest shows of the summer.</p>
+            <p class="content">We've put together everything you need to know to secure Taylor Swift | The Eras Tour tickets.</p>
+        </div>
+    </div>
+    <div class="timer-container">
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298825.jpg" alt="timer-background" class="timer-background"/>
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298821.jpg" alt="timer-background" class="timer-background-mobile"/>
+        <div class="ab">
+            <div class="title">General Public On Sale Starts In</div>
+            <div class="content">
+                <div class="city-timer-container syd-timer-container">
+                    <div class="city">SYDNEY</div>
+                    <div class="timer">
+                        <div class="days">
+                            <div class="plates">
+                                <div class="plate-l" id="syd-d-l">1</div>
+                                <div class="plate-r" id="syd-d-r">1</div>
+                            </div>
+                            <div class="legend">Days</div> 
+                        </div>
+                        <div class="hours">
+                            <div class="plates">
+                                <div class="plate-l" id="syd-h-l">1</div>
+                                <div class="plate-r" id="syd-h-r">1</div>
+                            </div>
+                            <div class="legend">Hours</div> 
+                        </div>
+                        <div class="minutes">
+                            <div class="plates">
+                                <div class="plate-l" id="syd-m-l">1</div>
+                                <div class="plate-r" id="syd-m-r">1</div>
+                            </div>
+                            <div class="legend">Minutes</div> 
+                        </div>
+                        <div class="seconds">
+                            <div class="plates">
+                                <div class="plate-l" id="syd-s-l">1</div>
+                                <div class="plate-r" id="syd-s-r">2</div>
+                            </div>
+                            <div class="legend">Seconds</div> 
+                        </div>
+                    </div>
+                    <!-- <div class="buy">
+                        <a>
+                            <div class="buy-text">Sydney Tickets</div>
+                            <div class="image-container"><img src="Icons/right.svg" alt="right-icon" /></div> 
+                        </a>
+                    </div> -->
+                </div>
+                <div class="city-timer-container mel-timer-container">
+                    <div class="city">MELBOURNE</div>
+                    <div class="timer">
+                        <div class="days">
+                            <div class="plates">
+                                <div class="plate-l" id="mel-d-l">1</div>
+                                <div class="plate-r" id="mel-d-r">1</div>
+                            </div>
+                            <div class="legend">Days</div> 
+                        </div>
+                        <div class="hours">
+                            <div class="plates">
+                                <div class="plate-l" id="mel-h-l">1</div>
+                                <div class="plate-r" id="mel-h-r">1</div>
+                            </div>
+                            <div class="legend">Hours</div> 
+                        </div>
+                        <div class="minutes">
+                            <div class="plates">
+                                <div class="plate-l" id="mel-m-l">1</div>
+                                <div class="plate-r" id="mel-m-r">1</div>
+                            </div>
+                            <div class="legend">Minutes</div> 
+                        </div>
+                        <div class="seconds">
+                            <div class="plates">
+                                <div class="plate-l" id="mel-s-l">1</div>
+                                <div class="plate-r" id="mel-s-r">2</div>
+                            </div>
+                            <div class="legend">Seconds</div> 
+                        </div>
+                    </div>
+                    <!-- <div class="buy">
+                        <a>
+                            <div class="buy-text">Melbourne Tickets</div>
+                            <div class="image-container"><img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/right.svg" alt="right-icon" /></div> 
+                        </a>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ticketsOnSale">
+        <div class="img-container">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298826.jpg" alt="end-game-img" />
+        </div>
+        <div class="end-game-content">
+            <div class="title">
+                <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Alarm_Bell_Icon.png" alt="bell-icon" />
+                <div>
+                    <!-- <div class="end-game-text"><i>End Game</i></div> -->
+                    <div class="tickets-on-sale-text">Tickets On Sale <br><span>(all times AEST)</span></div>
+                </div>
+            </div>
+            <div class="dates">
+                <div class="date">
+                    <div class="sale-type too-long">American Express Card Member Pre-sale:</div>
+                    <div class="sale-date">Mon 26 June 2023</div>
+                    <div class="sale-time">
+                        <span class="city">Sydney:</span> 10am | <span class="city">Melbourne:</span> 2pm
+                    </div>
+                    <div class="additional-note">See <a href="https://www.americanexpress.com/en-au/benefits/entertainment/events" target="_blank">www.amex.com/Experiences</a> for more information</div>
+                </div>
+                <div class="divider"></div>
+                <div class="date">
+                    <div class="sale-type">Frontier Members Pre-sale:</div>
+                    <div class="sale-date">Wed 28 June 2023</div>
+                    <div class="sale-time">
+                        <span class="city">Sydney:</span> 10am | <span class="city">Melbourne:</span> 2pm
+                    </div>
+                    <div class="additional-note">Register as a Frontier Member on <a href="https://frontiertouring.com" target="_blank">frontiertouring.com</a> to access the pre-sale code. Only available to Frontier Members. A pre-sale is an opportunity to secure tickets prior to the public, not a preferential seating service.</div>
+                </div>
+                <div class="divider"></div>
+                <div class="date">
+                    <div class="sale-type">General Public On Sale:</div>
+                    <div class="sale-date">Fri 30 June 2023</div>
+                    <div class="sale-time">
+                        <span class="city">Sydney:</span> 10am | <span class="city">Melbourne:</span> 2pm
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="eventDates">
+        <div class="venue">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Melb_Icon.png" alt="mel" class="mel"/>
+            <div class="city">Melbourne Cricket Ground</div>
+            <div class="date">Fri 16 Feb & Sat 17 Feb 2024</div>
+            <div class="date"><a href="https://d35kvm5iuwjt9t.cloudfront.net/images/assets/TS_MCG_Map.jpg" target="_blank">View venue map</a></div>
+            <div class="mobile">
+                <div class="city-m">Melbourne Cricket Ground</div>
+                <div class="date-m">Fri 16 Feb 2024</div>
+                <div class="date-m">Sat 17 Feb 2024</div>
+                <div class="date-m"><a href="https://d35kvm5iuwjt9t.cloudfront.net/images/assets/TS_MCG_Map.jpg" target="_blank">View venue map</a></div>
+            </div>
+        </div>
+        <div class="divider-m"></div>
+        <div class="venue syd-venue">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Syd_Icon.png" alt="syd" class="syd"/>
+            <div class="city">Accor Stadium, Sydney</div>
+            <div class="date">Fri 23 Feb, Sat 24 Feb & Sun 25 Feb 2024</div>
+            <div class="date"><a href="https://d35kvm5iuwjt9t.cloudfront.net/images/assets/TS_Accor_Map.jpg" target="_blank">View venue map</a></div>
+            <div class="mobile">
+                <div class="city-m">Accor Stadium, Sydney</div>
+                <div class="date-m">Fri 23 Feb 2024</div>
+                <div class="date-m">Sat 24 Feb 2024</div>
+                <div class="date-m">Sun 25 Feb 2024</div>
+                <div class="date-m"><a href="https://d35kvm5iuwjt9t.cloudfront.net/images/assets/TS_Accor_Map.jpg" target="_blank">View venue map</a></div>
+            </div>
+        </div>
+        <div class="middle">
+            <!-- <div class="best"><i>The Best Day</i></div> -->
+            <div class="dates">Event Dates</div>
+            <div class="divider"></div>
+        </div>
+    </div>
+    <div id="ticketPrices">
+        <div class="wording">
+            <div class="title">
+                <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Ticket_Icon.png" alt="ticket-icon" />
+                <div>
+                    <!-- <div class="time-to-go-text"><i>It's Time To Go</i></div> -->
+                    <div class="ticket-prices-text">Ticket Prices</div>
+                </div>
+            </div>
+            <div class="prices">
+                <div class="price"><span>A Reserve -</span> $379.90*</div>
+                <div class="price"><span>B Reserve -</span> $309.90*</div>
+                <div class="price"><span>C Reserve -</span> $239.90*</div>
+                <div class="price"><span>D Reserve -</span> $199.90*</div>
+                <div class="price"><span>E Reserve -</span> $159.90*</div>
+                <div class="price"><span>F Reserve -</span> $119.90*</div>
+                <div class="price"><span>G Reserve -</span> $79.90*</div>
+            </div>
+            <div class="ticket-limit"><strong>TICKET LIMIT:</strong> There is a strict limit of four (4) tickets per customer on this event. Persons who exceed the ticket limit may have any or all of their orders and tickets cancelled without notice. This includes orders associated with the same name, e-mail address, billing address, credit card number or other information.</div>
+            <div class="price-note">
+                * For this event, a one-off handling fee applies on all purchases. The actual fee may vary depending on the venue and/or method of delivery selected, or where you add other items to your basket. All ticket/item prices displayed for this event are subject to change at any time without notice. All ticket prices include GST, if applicable, and are quoted in AU$. Ticket orders purchased by credit/debit card are subject to credit/debit card approval and customer account verification.
+            </div>
+        </div>
+        <div class="mobile-frame">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Phone_Frame.png" alt="Phone_Frame" />
+            <div class="content">
+                <div class="title">
+                    App Only Ticket Event
+                </div>
+                <div class="text">
+                    To protect fans, tickets for this tour will only be available to access via the Ticketek App. Please download the latest version to view your tickets. Closer to the event date, the barcode on your ticket will be unlocked and you will be able to securely share tickets with others in your group.
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="vipPackages">
+        <div class="title">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Crown_Icon.png" alt="Crown_Icon" />
+            <div>
+                <!-- <div class="wonder-text"><i>Wonderland</i></div> -->
+                <div class="vip-packages-text">VIP Packages</div>
+            </div>
+        </div>
+        <div class="packages">
+            <div class="package">
+                <div class="package-name-section">
+                    <div class="name">It's Been A Long Time Coming</div>
+                    <div class="package-price">$1249.90*</div>
+                </div>
+                <div class="package-copy">
+                        One Unforgettable A Reserve Floor Ticket*<br>
+                        Special Set of Four (4) Taylor Swift Prints<br>
+                        Exclusive Taylor Swift VIP Merchandise
+                    <ul>
+                        <li>Commemorative Taylor Swift | The Eras Tour VIP Tote Bag</li>
+                        <li>Collectible Taylor Swift Pin, Sticker & Postcard Set + Souvenir Concert Ticket</li>
+                        <li>Special VIP Tour Laminate & Matching Lanyard</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="package">
+                <div class="package-name-section">
+                    <div class="name">Karma Is My Boyfriend</div>
+                    <div class="package-price">$899.90*</div>
+                </div>
+                <div class="package-copy">
+                    One Phenomenal A Reserve Floor Ticket *<br>
+                    Special Set of Four (4) Taylor Swift Prints<br>
+                    Exclusive Taylor Swift VIP Merchandise
+                    <ul>    
+                        <li>Commemorative Taylor Swift | The Eras Tour VIP Tote Bag</li>
+                        <li>Collectible Taylor Swift Pin, Sticker & Postcard Set + Souvenir Concert Ticket</li>
+                        <li>Special VIP Tour Laminate & Matching Lanyard</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="package">
+                <div class="package-name-section">
+                    <div class="name">I Remember It All Too Well</div>
+                    <div class="package-price">$749.90*</div>
+                </div>
+                <div class="package-copy">
+                    One Incredible A Reserve Ticket in the Lower Level *<br>
+                    Special Set of Four (4) Taylor Swift Prints<br>
+                    Exclusive Taylor Swift VIP Merchandise<br>
+                    <ul>    
+                        <li>Commemorative Taylor Swift | The Eras Tour VIP Tote Bag</li>
+                        <li>Collectible Taylor Swift Pin, Sticker & Postcard Set + Souvenir Concert Ticket</li>
+                        <li>Special VIP Tour Laminate & Matching Lanyard</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="package">
+                <div class="package-name-section">
+                    <div class="name">Ready For It</div>
+                    <div class="package-price">$599.90*</div>
+                </div>
+                <div class="package-copy">
+                    One Amazing B Reserve Ticket *<br>
+                    Special Set of Four (4) Taylor Swift Prints<br>
+                    Exclusive Taylor Swift VIP Merchandise<br>
+                    <ul>    
+                        <li>Commemorative Taylor Swift | The Eras Tour VIP Tote Bag</li>
+                        <li>Collectible Taylor Swift Pin, Sticker & Postcard Set + Souvenir Concert Ticket</li>
+                        <li>Special VIP Tour Laminate & Matching Lanyard</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="package">
+                <div class="package-name-section">
+                    <div class="name">It's A Love Story</div>
+                    <div class="package-price">$399.90*</div>
+                </div>
+                <div class="package-copy">
+                    One Excellent D Reserve Ticket *<br>
+                    Special Set of Four (4) Taylor Swift Prints<br>
+                    Exclusive Taylor Swift VIP Merchandise<br>
+                    <ul>    
+                        <li>Commemorative Taylor Swift | The Eras Tour VIP Tote Bag</li>
+                        <li>Collectible Taylor Swift Pin, Sticker & Postcard Set + Souvenir Concert Ticket</li>
+                        <li>Special VIP Tour Laminate & Matching Lanyard</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="package">
+                <div class="package-name-section">
+                    <div class="name">We Never Go Out Of Style</div>
+                    <div class="package-price">$349.90*</div>
+                </div>
+                <div class="package-copy">
+                    One Awesome E Reserve Ticket *<br>
+                    Special Set of Four (4) Taylor Swift Prints<br>
+                    Exclusive Taylor Swift VIP Merchandise<br>
+                    <ul>    
+                        <li>Commemorative Taylor Swift | The Eras Tour VIP Tote Bag</li>
+                        <li>Collectible Taylor Swift Pin, Sticker & Postcard Set + Souvenir Concert Ticket</li>
+                        <li>Special VIP Tour Laminate & Matching Lanyard</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="divider"></div>
+            <div class="package">
+                <div class="package-name-section">
+                    <div class="name">Hotel & Ticket Packages</div>
+                </div>
+                <div class="package-copy">
+                    Make the most of your Taylor Swift | The Eras Tour concert experience by booking a ticket + hotel package. Enjoy your stay in the city and take in more of the amazing sights and attractions. Please see a full list of hotel package descriptions <a href="https://sound.travel/tours/132" target="_blank">here</a>.
+                </div>
+            </div>
+            <div class="hotel-onsale-date">Hotel & Ticket Packages On sale from Wednesday 28 June</div>
+            <div class="seating-note">
+                * Venue seating configurations and package locations can vary by city. See your show date for specific details
+            </div>
+            <div class="vip-packages-tnc">
+                <div class="title-tnc hotel-onsale-date">VIP PACKAGE TERMS & CONDITIONS</div>
+                <ul class="content">
+                    <li>All sales are final.</li>
+                    <li>There are no refunds or exchanges under any circumstances.</li>  
+                    <li>All packages and package contents are non-transferable.</li>  
+                    <li>The artist, show and venue reserve the right to cancel any order for any reason. All VIP merchandise will be distributed on-site at the show or at an alternative local location. VIP Merchandise will not be shipped (posted) under any circumstances.</li>   
+                    <li>VIP merchandise is not required for venue entry.</li>   
+                    <li>The artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer at the time of purchase.</li>   
+                    <li>The information provided by the consumer at the time of purchase, is the same information that will be utilized for contacting customers if required.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div id="accessibleSeating">
+        <!-- <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Accesible_Seating_Icon.png" alt="Accesible_Seating_Icon" />
+        <div class="title"><i>This Love</i></div> -->
+        <div class="sub-title">Accessible Seating</div>
+        <div class="text">
+            Swifties with accessible needs can buy Accessible tickets by completing the online accessible booking form. This will be available on the Ticketek site when tickets go on sale. <br>
+            A dedicated support line will be available to assist fans through this process.
+        </div>
+    </div>
+    <div id="luckyOnes">
+        <div class="title">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Tickbox_Icon.png" alt="Tickbox_Icon" />
+            <!-- <div><i>The Lucky Ones</i></div> -->
+        </div>
+        <div class="sub">We want all fans to have fair access to purchase tickets to Taylor Swift | The Eras Tour, so we've put together some helpful tips to give you a smooth checkout.</div>
+        <div class="details">
+            <div class="wording">
+                <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298820.jpg" alt="mobile-lucky" class="mobile-lucky" />
+                <div class="title">Do Your Prep</div>
+                <div class="sub-title">It's never too soon to start preparing and these simple steps will ensure you're prepared when tickets go on sale:</div>
+                <div class="item">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Account_Icon.png" alt="Account_Icon" />
+                    <div>Double check your Ticketek account details are up to date. Have your login details handy as you'll need them to complete your purchase.</div>
+                </div>
+                <div class="item">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Code_Icon.png" alt="Code_Icon" />
+                    <div>If you are a Frontier Member, save your pre-sale code. This will be sent to you by Frontier Touring and will be needed to access the Frontier Pre-sale.</div>
+                </div>
+                <div class="item">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Calendar_Icon.png" alt="Calendar_Icon" />
+                    <div>Gather your fellow Swifties and plan your purchase by agreeing on the performance date, ticket price category and any packages you want to purchase.</div>
+                </div>
+                <div class="item">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Credit_Card_Icon.png" alt="Credit_Card_Icon" />
+                    <div>Decide on which payment method is best for you and check your details are up to date.</div>
+                </div>
+                <div class="item">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Alarm_Clock_Icon.png" alt="Alarm_Icon" />
+                    <div>Set your timer, calendar, and alarm for your pre-sale or the general public on sale.</div>
+                </div>
+            </div>
+            <div class="image-container">
+                <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298829.jpg" alt="Lucky_Ones_Image_Placeholder_1" />
+            </div>
+        </div>
+    </div>
+    <div id="onSaleDay">
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298881.jpg" alt="Lucky_Ones_Image_Placeholder_2" class="lucky-mobile-img2"/>
+        <div class="image-container">
+            <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298830.jpg" alt="Lucky_Ones_Image_Placeholder_2" />
+        </div>
+        <div class="details">
+            <div class="title">On Sale Day</div>
+            <div class="sub">When tickets go on sale, the tips below will give you the best chance of getting through to purchase your tickets.</div>
+            <div class="item">
+                <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/TKT_Star.png" alt="TKT_Star" />
+                <div>Visit Ticketek at least 15 minutes prior to tickets going on sale. Follow the designated link for your desired city to be taken to the Ticketek Lounge.</div>
+            </div>
+            <div class="item">
+                <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/No_Exit_Icon.png" alt="TKT_Star" />
+                <div>Please don't leave the Lounge page or refresh your browser. The page will refresh itself frequently to let more fans through to purchase. Once you're in the Lounge, sit tight and wait to be let through to the event page.</div>
+            </div>
+            <div class="item">
+                <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Speed_Icon.png" alt="TKT_Star" />
+                <div>Once you're through, keep an eye on the timer and complete your purchase within the time frame.</div>
+            </div>
+        </div>
+    </div>
+    <div id="longStoryShort">
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Shield_Icon.png" alt="Shield_Icon" />
+        <!-- <div class="title"><i>Long Story Short</i></div> -->
+        <div class="sub">Don't Be Tempted By Scalpers!</div>
+        <div class="text">
+            Ticketek is committed to protecting all genuine fans and applies strict anti-scalping measures. 
+            <br>
+            <span>Ticketek is the only authorised ticket seller for Taylor Swift | The Eras Tour in Australia. </span>
+            <br>
+            To protect fans, all ticket barcodes will be unlocked closer to the event date and will be accessible via the Ticketek App only. 
+        </div>
+    </div>
+    <div id="faqs">
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298827.jpg" alt="faqs-img" class="faqs-background" />
+        <img src="https://d35kvm5iuwjt9t.cloudfront.net/dbimages/sfx298819.jpg" alt="faqs-img" class="faqs-background-mobile" />
+        <div class="abs">
+            <div class="title"><i>Promoter FAQs</i></div>
+            <div class="sub">Check out Frontier Touring's FAQs below for everything else you need to know about Taylor Swift | The Eras Tour in Australia.</div>
+            <div class="cards">
+                <a class="card" href="https://frntr.co/Taylor24FAQ" target="_blank">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Lightning_Bolt_Icon.png" alt="presale-icon" class="lightning" />
+                    <div>Pre-sale Infomation</div>
+                </a>
+                <a class="card" href="https://frntr.co/Taylor24FAQ" target="_blank">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Ticket_Icon.svg" alt="ticket-icon" />
+                    <div>Purchasing Tickets</div>
+                </a>
+                <a class="card" href="https://frntr.co/Taylor24FAQ" target="_blank">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Microphone_Icon.png" alt="Microphone_Icon" />
+                    <div>Show Information</div>
+                </a>
+                <a class="card" href="https://frntr.co/Taylor24FAQ" target="_blank">
+                    <img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/Accessibility_Icon.png" alt="Accessibility_Icon" />
+                    <div>Accessibility</div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="back-to-top">
+        <a href="#"><img src="https://d35kvm5iuwjt9t.cloudfront.net/images/icons/1337TSRD/up.svg" alt="up" /></a>
+    </div>
+</body>
+</html>
